@@ -1,3 +1,3 @@
-# NppPluginOpenHost
+# NppHostsFileEditor
 
-Notepadd++ plugin from template to open host file on windows.
+Notepad++ plugin to view and modify the Windows ```hosts``` file (located at ```%WINDIR%\System32\Drivers\etc\hosts```)
